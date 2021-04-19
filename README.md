@@ -34,14 +34,14 @@ Inserting a new Pet:
 5) Click Send
 ```
 ![POST-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Create.png)
-
+```
 Updating an exsisting Pet:
 1) Select PUT as request type.
 2) URL as http://localhost:8080/pets/{id}
 3) Select Body and provide user data
 4) Specify content type as JSON.
 5) Click Send
-
+```
 ![POST-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Update.png)
 
 Deleting an specific pet using the DELETE request: http://localhost:8080/pets/{id}
