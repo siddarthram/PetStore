@@ -1,20 +1,20 @@
 # PetStore
 Spring Boot pet store app
 
-Run application using Maven
+**Run application using Maven**
 1) Go to the root of the application where pom.xml is available
 2) Run execute the below command mvn spring-boot:run
 
-Deploy Spring boot application using following commands: 
-1) mvn clean install
-2) java -jar .\target\demo-0.0.1-SNAPSHOT.jar (jar file will be created in the target folder)
+**Deploy Spring boot application using following commands:** 
+'''mvn clean install
+java -jar .\target\demo-0.0.1-SNAPSHOT.jar (jar file will be created in the target folder)'''
 
 This will start the application on the Tomcat port 8080 as shown below −
 
 And you can use the link - http://localhost:8080/pets to test the application either on your browser or POSTMAN
 ![Browser-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Browser.png)
 
-Test Sping Boot API with Postman
+**Test Sping Boot API with Postman**
 Now, it is the time to run the application and test our Spring Boot API using Postman! 
 Once started, the application will be available at http://localhost:8000
 
@@ -60,7 +60,7 @@ Whenever the application loads it is intiliazed by the following data
 
 ![SQL-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/SQL.png)
 
-'''Testing:
+**Testing:**
 
 The test cases are present in the test folder and were written using Mockito, MockMvc, MockBean and ObjectMapper
 
