@@ -1,21 +1,21 @@
 # PetStore
 Spring Boot pet store app
 
-This app is built using Spring Boot, JPA, H2, Mockito
+This app is built using Spring Boot, JPA, H2 and Mockito
 
 The app is mainly divided into Service, Repository and Controller layers
 
 The intial flow of the application starts from the PetStoreApplication class
 
-The entity class Pet contains all the neccessary attributes such as id, name, type and price
+The Pet entity class contains all the neccessary attributes such as id, name, type and price
 
 The services such as getPets, getPetById, updatePet etc, are present in the PetService class
 
-All the Rest API mapping is present in the PetController class
+All the necessary Rest API mapping is present in the PetController class
 
 **Run application using Maven**
-1) Go to the root of the application where pom.xml is available
-2) Run execute the below command mvn spring-boot:run
+1) Go to the root of the application where pom.xml (contains all the neccessary dependencies) is available
+2) Run the command - mvn spring-boot:run
 
 **Deploy Spring boot application using following commands:** 
 1) mvn clean install
