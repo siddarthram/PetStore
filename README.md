@@ -66,4 +66,7 @@ The test cases are present in the test folder and were written using Mockito, Mo
 
 Test cases have been implemented for the controller and service classes
 
+![Test-Controller](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Test-Controller.png)
+
+![Test-Service](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/TestService.png)
 
