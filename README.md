@@ -7,7 +7,7 @@ Spring Boot pet store app
 
 **Deploy Spring boot application using following commands:** 
 1) mvn clean install
-2)java -jar .\target\demo-0.0.1-SNAPSHOT.jar (jar file will be created in the target folder)
+2) java -jar .\target\demo-0.0.1-SNAPSHOT.jar (jar file will be created in the target folder)
 
 This will start the application on the Tomcat port 8080 as shown below −
 
