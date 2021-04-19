@@ -48,11 +48,11 @@ Deleting an specific pet using the **DELETE request**: http://localhost:8080/pet
 
 ![POST-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Delete.png)
 
-For this application we are using the in memory database H2
+For this application we are using the in memory database **H2**
 
-And the configuration details are present in the application.properties file
+And the configuration details are present in the **application.properties file**
 
-Here is a screenshot of the H2-Console
+Here is a screenshot of the **H2-Console**, which can be accessed by http://localhost:8080/h2-console/
 
 ![h2-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/h2-console.png)
 
