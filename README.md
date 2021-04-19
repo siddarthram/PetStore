@@ -58,6 +58,7 @@ Here is a screenshot of the H2-Console
 
 Whenever the application loads it is intiliazed by the following data 
 
+![SQL-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/SQL.png)
 The test cases are present in the test folder and were written using Mockito, MockMvc, MockBean and ObjectMapper
 
 
