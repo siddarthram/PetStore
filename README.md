@@ -18,11 +18,11 @@ And you can use the link - http://localhost:8080/pets to test the application ei
 Now, it is the time to run the application and test our Spring Boot API using Postman! 
 Once started, the application will be available at http://localhost:8000
 
-Retrieving all Products using GET request: http://localhost:8080/pets
+Retrieving all Products using **GET request**: http://localhost:8080/pets
 
 ![GET-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/GetAll.png)
 
-Retrieving a pet by ID using GET request: http://localhost:8080/pets/{id}
+Retrieving a pet by ID using **GET request**: http://localhost:8080/pets/{id}
 
 ![GETById-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/GetById.png)
 ```
@@ -44,7 +44,7 @@ Updating an exsisting Pet:
 ```
 ![POST-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Update.png)
 
-Deleting an specific pet using the DELETE request: http://localhost:8080/pets/{id}
+Deleting an specific pet using the **DELETE request**: http://localhost:8080/pets/{id}
 
 ![POST-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Delete.png)
 
