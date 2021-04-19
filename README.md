@@ -13,6 +13,6 @@ This will start the application on the Tomcat port 8080 as shown below −
 
 And you can use the link - http://localhost:8080/pets on your browser or POSTMAN
 
-![Browser-Output](images/Browser.png)
+![Browser-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Browser.png)
 
 
