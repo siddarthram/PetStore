@@ -9,7 +9,7 @@ Spring Boot pet store app
 1) mvn clean install
 2) java -jar .\target\demo-0.0.1-SNAPSHOT.jar (jar file will be created in the target folder)
 
-This will start the application on the Tomcat port 8080 as shown below −
+This will start the application on the Tomcat port **8080** as shown below −
 
 And you can use the link - http://localhost:8080/pets to test the application either on your browser or POSTMAN
 ![Browser-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Browser.png)
@@ -25,14 +25,14 @@ Retrieving all Products using GET request: http://localhost:8080/pets
 Retrieving a pet by ID using GET request: http://localhost:8080/pets/{id}
 
 ![GETById-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/GetById.png)
-
+```
 Inserting a new Pet:
 1) Select POST as request type.
 2) URL as http://localhost:8080/pets
 3) Select Body and provide user data
 4) Specify content type as JSON.
 5) Click Send
-
+```
 ![POST-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/Create.png)
 
 Updating an exsisting Pet:
