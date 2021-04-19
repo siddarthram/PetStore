@@ -56,7 +56,7 @@ Here is a screenshot of the H2-Console
 
 ![h2-Output](https://github.com/siddarthram/PetStore/blob/master/src/main/resources/images/h2-console.png)
 
-Whenever the application loads it is intiliazed by the followwing data 
+Whenever the application loads it is intiliazed by the following data 
 
 The test cases are present in the test folder and were written using Mockito, MockMvc, MockBean and ObjectMapper
 
